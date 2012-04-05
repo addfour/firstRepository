@@ -6,6 +6,7 @@ int main(int argc, char **argv)
 	QApplication app(argc, argv);
 
 
+	//通过公共的url clone，来测试它的读写权限
 
 	//class分支从远程服务器上克隆下来的合并版本和服务器版本2合并
 
