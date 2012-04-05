@@ -5,8 +5,8 @@ int main(int argc, char **argv)
 {
 	QApplication app(argc, argv);
 
-	//分支master2
-	QPushButton *btn = new QPushButton("分支master2");
+	//新建分支master
+	QPushButton *btn = new QPushButton("新建分支master");
 
 	btn->show();
 
