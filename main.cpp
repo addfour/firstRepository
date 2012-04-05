@@ -6,6 +6,7 @@ int main(int argc, char **argv)
 	QApplication app(argc, argv);
 
 
+	//简单修改形成版本2，上传到服务器上
 	//将class分支中的版本2合并到新建分支master，形成合并后的版本1
 	//新建分支master
 	QPushButton *btn = new QPushButton("新建分支master");
