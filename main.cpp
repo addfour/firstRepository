@@ -5,8 +5,8 @@ int main(int argc, char **argv)
 {
 	QApplication app(argc, argv);
 
-	//版本3
-	QPushButton *btn = new QPushButton("版本3");
+	//版本4
+	QPushButton *btn = new QPushButton("版本4");
 
 	btn->show();
 
